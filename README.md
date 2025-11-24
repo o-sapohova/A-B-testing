@@ -18,9 +18,7 @@ The project includes the calculation of conversion metrics that represent differ
 Statistical significance for each metric was evaluated using hypothesis testing, and results were summarized for every test and test group.
 
 ## **Tableau Visualizations**
-
-[A/B testing]
-([https://public.tableau.com/app/profile/olena.sapohova/viz/AB_testing/ABTesting])
+[A/B testing](https://public.tableau.com/app/profile/olena.sapohova/viz/AB_testing/ABTesting)
 
 The Tableau dashboard presents:
 * Overall metric calculations and statistical significance results for each test
